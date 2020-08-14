@@ -1,14 +1,16 @@
 package app;
 import java.util.Scanner;
+
+
 public class App {
     public static void main(String[] args) throws Exception {
-        int x,y,z;
-        x=10;
-        y=11;
-        z=x+y;
-        System.out.println("He Java "+z);
-        Scanner input=new Scanner(System.in);
-        String var=input.nextLine();
-        System.out.println("vous avez ecris "+var);
+      double moyen;
+      Scanner input =new Scanner(System.in);
+      System.out.println("quel est votre moyen general");
+      moyen=input.nextDouble();
+      if(moyen>= 10.0)
+      System.out.println("valide");
+      else 
+      System.out.println("no valide");
     }
 }
