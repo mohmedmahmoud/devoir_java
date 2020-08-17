@@ -14,7 +14,7 @@ public class groupe {
         System.out.println(prof.getNom());
         prof.setEtablissement("FST");
         System.out.println(prof.getEtablissement());
-        prof.getEtablissement();
+        
 
         
     }

@@ -2,9 +2,9 @@ package app;
 
 public class personne {
     private String nom;
-     private String prenom;
-     private String profession;
-     private int age;
+    private String prenom;
+    private String profession;
+    private int age;
 
     personne(String nom, String prenom, int age) {
         this.nom = nom;
@@ -43,6 +43,7 @@ public class personne {
     String getNom() {
         return nom;
     }
+
     String getProfission() {
         return profession;
     }
