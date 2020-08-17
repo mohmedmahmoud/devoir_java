@@ -20,36 +20,12 @@ public class groupe {
     }
 }
 
-// final int x = 9;
-// // for(int i=1;i < x;i++){
-// // System.out.println("nombre "+i);
-// // }
-// //int i = 0;
-// // while (i < x) {
-// // System.out.println("nombre " + i);
-// // i++;
-// // }
-// // do {
-// // System.out.println("nombre " + i);
-// // i++;
-// // } while (i < x);
+// EXO1:
+// Class moyenne1 return 12.5  
+// Class moyenne2 return 13  
 
-// // int mytable[]=new int[3];
-// // mytable[0]=1;
-// // mytable[1]=2;
-// // mytable[2]=3;
+// Ce sont des opérateurs pré-incrément et post-incrément dans les langages de programmation.
 
-// // for ( int a : mytable ) {
-// // System.out.println("index:" +a);
-// // }
-// // switch (x) {
-// // case 4:System.out.println(x-1);
+// Le pré-incrément signifie qu'il augmente la valeur de la variable avant de l'utiliser.
 
-// // break;
-
-// // default:System.out.println("c est ca");
-// // break;
-// // }
-// double p=14;
-// double a=10;
-// System.out.println("mOYENNE :"+ (++p +a)/2);
+// Post-incrément signifie qu'il augmente la valeur de la variable après s'être utilisé
